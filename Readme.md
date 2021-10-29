@@ -5,6 +5,8 @@ The color-coding of roads in this view corresponds to the colors used in the JOS
 
 As described in [Proposal:New York/Highway Classification](https://wiki.openstreetmap.org/wiki/Proposal:_New_York/Highway_Classification), New York State's Arterial Classification Codes (ACC) are useful for identifying the proper OSM highway classification for major highways. In particular ACC=1 maps well to `highway=motorway`, ACC=2 maps well to `highway=trunk`, and ACC=3 maps well to `highway=primary`. Lower ACC levels are less deterministic for classifying lower OSM `highway=*` levels.
 
+![Key](https://raw.githubusercontent.com/adamfranco/NYS-Streets-QGIS-view/main/Key.png)
+
 ## Author
 This QGIS view was prepared by [Adam Franco](https://www.openstreetmap.org/user/Adam%20Franco) for the [New York Highway Classification project](https://wiki.openstreetmap.org/wiki/Proposal:_New_York/Highway_Classification).
 
@@ -22,6 +24,6 @@ This QGIS view was prepared by [Adam Franco](https://www.openstreetmap.org/user/
    ```
 5. Open the `NYS Streets QGIS view.qgs` file using QGIS. After a bit of loading you should you should see a rendered view of the top road levels organized by ACC.
 
-   ![Screen Shot](./Screen Shot.png)
+   ![Screen Shot](https://raw.githubusercontent.com/adamfranco/NYS-Streets-QGIS-view/main/Screen%20Shot.png)
 
 After loading the file you can pan and zoom as well as filter different ACC levels.
