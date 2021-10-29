@@ -29,3 +29,8 @@ This QGIS view was prepared by [Adam Franco](https://www.openstreetmap.org/user/
    ![Screen Shot](https://raw.githubusercontent.com/adamfranco/NYS-Streets-QGIS-view/main/Screen%20Shot.png)
 
 After loading the file you can pan and zoom as well as filter different ACC levels.
+
+# Project resources
+* [New York Highway Classification project](https://wiki.openstreetmap.org/wiki/Proposal:_New_York/Highway_Classification)
+* [United States/2021 Highway Classification Guidance](https://wiki.openstreetmap.org/wiki/United_States/2021_Highway_Classification_Guidance)
+  * [JOSM Retagging Work-flow](https://wiki.openstreetmap.org/wiki/United_States/2021_Highway_Classification_Guidance#JOSM_retagging_workflow)
