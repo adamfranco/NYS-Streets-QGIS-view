@@ -7,6 +7,8 @@ As described in [Proposal:New York/Highway Classification](https://wiki.openstre
 
 ![Key](https://raw.githubusercontent.com/adamfranco/NYS-Streets-QGIS-view/main/Key.png)
 
+[A pre-rendered PDF export](https://github.com/adamfranco/NYS-Streets-QGIS-view/releases/download/2021-10-28.0/NYS.Streets.ACC-1-3.pdf) is also available.
+
 ## Author
 This QGIS view was prepared by [Adam Franco](https://www.openstreetmap.org/user/Adam%20Franco) for the [New York Highway Classification project](https://wiki.openstreetmap.org/wiki/Proposal:_New_York/Highway_Classification).
 
